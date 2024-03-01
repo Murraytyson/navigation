@@ -1,0 +1,24 @@
+body {
+    background-image: url(images/sky.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+}
+
+nav ul li{
+    margin-top: 1em;
+}
+
+nav ul li a {
+    color: darkblue;
+}
+
+body p {
+    text-align: center;
+    font-weight: bold;
+}

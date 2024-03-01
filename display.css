@@ -1,0 +1,25 @@
+body {
+    background-image: url(images/setup.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+}
+
+nav ul li{
+    margin-top: 1em;
+}
+
+nav ul li a {
+    color: aqua;
+}
+
+body p {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+}
